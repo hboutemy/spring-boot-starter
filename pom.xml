@@ -73,6 +73,7 @@
     <mybatis-velocity.version>2.1.1</mybatis-velocity.version>
     <mybatis-thymeleaf.version>1.0.3</mybatis-thymeleaf.version>
     <spring-boot.version>2.6.3</spring-boot.version>
+    <project.build.outputTimestamp>1645112687</project.build.outputTimestamp>
   </properties>
 
   <build>
